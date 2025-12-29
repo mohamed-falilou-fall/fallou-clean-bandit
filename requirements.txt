@@ -1,5 +1,5 @@
 streamlit==1.30.0
-pandas==2.2.2
+pandas==2.0.3
 numpy==1.26.4
 reportlab==4.1.0
 openpyxl==3.1.2
@@ -9,4 +9,7 @@ fpdf==1.7.2
 altair>=5.0.0
 openpyxl>=3.1.0
 xlsxwriter>=3.1.0
+
 sqlite3
+
+
