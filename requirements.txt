@@ -1,0 +1,12 @@
+streamlit==1.30.0
+pandas==2.2.2
+numpy==1.26.4
+reportlab==4.1.0
+openpyxl==3.1.2
+matplotlib==3.8.2
+plotly==5.17.0
+fpdf==1.7.2
+altair>=5.0.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+sqlite3
